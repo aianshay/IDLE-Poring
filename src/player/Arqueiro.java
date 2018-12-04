@@ -8,7 +8,7 @@ public class Arqueiro extends Avatar {
     public Arqueiro(String nome){
         super(nome);
 
-        Item arco = new Arco("Cajado Uivante");
+        Item arco = new Arco("Arco da Fé");
         getMochila().add(arco);
 
         setAgilidade(5 + ((Arco) arco).getAdicionalAgilidade());

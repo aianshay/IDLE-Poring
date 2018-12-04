@@ -32,10 +32,10 @@ public class Item {
     	List<Item> itens = new ArrayList<>();
     	
     	Item escudo = new Escudo("Escudo de Prata");
-    	Item cajado = new Cajado("Cajado da EsperanÁa");
+    	Item cajado = new Cajado("Cajado da Esperan√ßa");
     	Item arco = new Arco("Arco do Terror");
     	Item espada = new Espada("Espada da Liberdade");
-    	Item revolver = new Revolver("Canh„o port·til");
+    	Item revolver = new Revolver("Canh√£o port√°til");
     	
     	itens.add(escudo);
     	itens.add(cajado);

@@ -45,7 +45,7 @@ public class Avatar{
 
     public void addItem(Item i){
         this.mochila.add(i);
-        System.out.println(getNome() + " adicionou o item " + i.getNome() + " à mochila.");
+        System.out.println(getNome() + " adicionou o item " + i.getNome() + " Ã  mochila.");
     }
 
     public Item dropItem(){
@@ -59,7 +59,7 @@ public class Avatar{
         this.level = this.level + 10;
         this.defaultHp = defaultHp + 30;
         this.setHp(defaultHp);
-        System.out.println(getNome() + " upou para o nível " + getLevel());
+        System.out.println(getNome() + " upou para o nÃ­vel " + getLevel());
     }
 
     public int getBatalhasVencidas() {

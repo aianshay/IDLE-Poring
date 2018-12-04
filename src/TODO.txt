@@ -1,0 +1,14 @@
+adicionar inimigos infinitos ate q o player morra, OK
+
+varios tipos de inimigos, OK adicionamos aleatoriedade nos atributos.
+
+mochila com itens em avatar, OK
+
+dropar/adicionar itens. ok
+
+nivel ok
+
+fazer o composite
+fazer o mapa.
+evitar repeticao de nome de item no inimigo.
+ver mochila.
